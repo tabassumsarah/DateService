@@ -3,20 +3,19 @@ This project uses Java8. This is a small utility service which calculates days b
 
 # Requirements:
 1. Only good old java! 
-2. You need to have jdk 8 installed and java set in your class path to use comman line compile and run step.
+2. You need to have jdk 8 installed and java set in your class path to use following commands.
 
 # Usage: From command line tool (Executable jar)
 1. Save DateServiceModule.jar to your preferred location.
 2. Go to that location.
-3. Type this command:
-    java -jar DateServiceModule.jar
+3. Type this command: java -jar DateServiceModule.jar
 4. Follow the instruction!
 
-
 # Usage: From command line tool (Compile and run)
-1. go to src folder of the project
-2. javac -d ../out ./com/company/main/Main.java
-3. java com.company.main.Main
+1. Clone the project.
+2. Go to src folder of the project.
+3. javac -d ../out ./com/company/main/Main.java
+4. java com.company.main.Main
 
 
 # Overview
