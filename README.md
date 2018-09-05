@@ -1,5 +1,5 @@
 # DateService
-This project uses Java8.
+This project uses Java8. This is a small utility service which calculates days between dates using core java. No date library has been used to build this functionality.
 Please download java if you don't have java locally installed.You need to have java set in your classpath.
 
 # Usage: From command line tool (Executable jar)
@@ -13,7 +13,7 @@ Please download java if you don't have java locally installed.You need to have j
 # Usage: From command line tool (Compile and run)
 1. go to src folder of the project
 2. javac -d ../out ./com/company/main/Main.java
-3. ava com.company.main.Main
+3. java com.company.main.Main
 
 
 # Overview
