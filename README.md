@@ -1,6 +1,9 @@
 # DateService
 This project uses Java8. This is a small utility service which calculates days between dates using core java. No date library has been used to build this functionality.
-Please download java if you don't have java locally installed.You need to have java set in your classpath.
+
+# Requirements:
+1. Only good old java! 
+2. You need to have jdk 8 installed and java set in your class path to use comman line compile and run step.
 
 # Usage: From command line tool (Executable jar)
 1. Save DateServiceModule.jar to your preferred location.
