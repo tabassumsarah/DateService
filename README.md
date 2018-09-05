@@ -7,7 +7,7 @@ Please download java if you don't have java locally installed.You need to have j
 2. Go to that location.
 3. Type this command:
     java -jar DateServiceModule.jar
-4. Follow the instruction and enjoy!
+4. Follow the instruction!
 
 
 # Usage: From command line tool (Compile and run)
@@ -17,6 +17,6 @@ Please download java if you don't have java locally installed.You need to have j
 
 
 # Overview
-I have used Julian day https://en.wikipedia.org/wiki/Julian_day calculationto get days.
-Code Implementation can be found under src\com\company\main
-Unit tests are located in \src\com\company\test
+1. I have used Julian day https://en.wikipedia.org/wiki/Julian_day calculationto get days.
+2. Code Implementation can be found under src\com\company\main
+3. Unit tests are located in \src\com\company\test
